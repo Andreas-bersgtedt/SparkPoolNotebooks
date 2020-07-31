@@ -1,3 +1,3 @@
 # SparkPoolNotebooks
 
-This repo contains a collection of Jypiter Notebooks for Synapse Spark
+This repo contains a collection of jupyter notebook for Synapse Spark.
